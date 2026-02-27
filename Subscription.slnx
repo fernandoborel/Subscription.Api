@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Subscription.Api/Subscription.Api.csproj" />
+  <Project Path="Subscription.Domain/Subscription.Domain.csproj" Id="43bdfa7f-f26b-4427-93fe-055b5fc81ce9" />
+</Solution>
