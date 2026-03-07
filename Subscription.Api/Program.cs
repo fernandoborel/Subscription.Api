@@ -28,5 +28,3 @@ app.MapOpenApi();
 app.UseAuthorization();
 app.MapControllers();
 app.Run();
-
-//teste pipeline
